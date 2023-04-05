@@ -1,6 +1,6 @@
 # Copyright(c) 2023 Feyi Akomolafe All rights reserved.
 # Created by : Feyi Akomolafe
-# Created on : Fabruary 2023
+# Created on : February 2023
 # TEJ3M-Unit2-02.py File.
 
 import time
